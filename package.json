@@ -1,0 +1,16 @@
+{
+  "name": "jawascript",
+  "version": "1.0.0",
+  "description": "Bahasa pemrograman berbasis Jawa dengan sintaks .jawa",
+  "main": "lib/interpreter.js",
+  "bin": {
+    "jawa": "bin/jawa.js"
+  },
+  "scripts": {
+    "start": "node bin/jawa.js"
+  },
+  "keywords": ["jawa", "interpreter", "javascript", "custom language"],
+  "author": "affis junianto",
+  "license": "MIT",
+  "dependencies": {}
+}
