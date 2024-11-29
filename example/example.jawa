@@ -1,0 +1,14 @@
+tulis("Sugeng rawuh menyang Jawascript!");
+
+gawean tambah(a, b) {
+    bali a + b;
+}
+
+var hasil = tambah(5, 10);
+tulis("Hasil penjumlahan:", hasil);
+
+yen (hasil > 10) {
+    tulis("Hasil luwih saka sepuluh.");
+} utawa {
+    tulis("Hasil ora luwih saka sepuluh.");
+}
