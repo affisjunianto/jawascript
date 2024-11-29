@@ -7,9 +7,9 @@
     "jawa": "bin/jawa.js"
   },
   "scripts": {
-    "start": "node bin/jawa.js"
+    "test": "node bin/jawa.js"
   },
-  "keywords": ["jawa", "interpreter", "javascript", "custom language"],
+  "keywords": ["jawascript", "javascript", "language", "custom", "repl"],
   "author": "affis junianto",
   "license": "MIT",
   "dependencies": {}
